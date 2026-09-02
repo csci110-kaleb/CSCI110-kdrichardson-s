@@ -16,6 +16,6 @@
 
 |                                      |                                                                              |
 | :-----------------------   | :----------------------------------------------------   |
-| **Name**                   | A01-stdI0                                        |
-| **Self Grade**            | 20/20                                                 |
-| **Notes**                  | completed               |
+| **Name**                   | A01-stdI0      A02-math                                  |
+| **Self Grade**            | 20/20            20/20                                     |
+| **Notes**                  | completed       completed                                |
