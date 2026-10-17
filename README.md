@@ -16,6 +16,6 @@
 
 |                                      |                                                                              |
 | :-----------------------   | :----------------------------------------------------   |
-| **Name**                   | A01-stdI0      A02-math       A03-functions    A07-strings                       |
-| **Self Grade**            | 20/20            20/20             20/20             20/20        |
-| **Notes**                  | completed       completed       completed             completed(need help understanding topic still)    |
+| **Name**                   | A01-stdI0      A02-math       A03-functions    A07-strings              A08-lists            |
+| **Self Grade**            | 20/20            20/20             20/20             20/20                 15/20   |
+| **Notes**                  | completed       completed       completed    completed                     completed      |
