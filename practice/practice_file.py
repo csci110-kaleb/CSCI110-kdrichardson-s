@@ -1,13 +1,3 @@
-# type hello cat
+height_dict = {"kaleb": 5'8, "colton": 5'11, "london": 7'0, "kole": 6'1}
 
-def total_length(string_lst): 
-    
-    # return the total length of the list of strings
-
-
-def main():
-    lst = input().split()
-    print(f"input has total length {total_length(lst)}")
-
-if __name__ == "__main__":
-    main(0)
+print(height_dict[input()])
