@@ -17,5 +17,5 @@
 |                                      |                                                                              |
 | :-----------------------   | :----------------------------------------------------   |
 | **Name**                   | A01-stdI0      A02-math       A03-functions    A07-strings              A08-lists      A09-more lists      |
-| **Self Grade**            | 20/20            20/20             20/20             20/20                 15/20         17/20 |
+| **Self Grade**            | 20/20            20/20             20/20             20/20                 15/20         20/20 |
 | **Notes**                  | completed       completed       completed    completed                   completed    completed     |
