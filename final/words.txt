@@ -1,0 +1,30 @@
+python
+hangman
+computer
+keyboard
+monitor
+guitar
+piano
+garden
+sunshine
+mountain
+river
+ocean
+bridge
+castle
+dragon
+puzzle
+rocket
+planet
+forest
+window
+
+import random
+from hangman import HangmanBoard
+
+words = open("words.txt").read().split()
+word = random.choice(words)
+
+board = HangmanBoard(word)
+print(board.display())
+
